@@ -3,7 +3,7 @@ import React from "react";
 function Bebas() {
   return (
     <div>
-      Bebas
+      Bebas sdfghjklkrtygu
       <h1>dfghjkl</h1>
     </div>
   );
