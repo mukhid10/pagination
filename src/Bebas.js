@@ -5,6 +5,7 @@ function Bebas() {
     <div>
       Bebas sdfghjklkrtygu
       <h1>dfghjkl</h1>
+      <h2>kakakakak</h2>
     </div>
   );
 }
